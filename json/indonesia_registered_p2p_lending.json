@@ -1,0 +1,1252 @@
+[
+    {
+        "platform_name": "Danamas",
+        "website": "https://p2p.danamas.co.id",
+        "company_name": "PT Pasar Dana Pinjaman",
+        "official_register": "KEP-49/D.05/2017",
+        "date_of_registration": "06 Juli 2017",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "investree",
+        "website": "https://www.investree.id",
+        "company_name": "PT Investree Radhika Jaya",
+        "official_register": "KEP-45/D.05/2019",
+        "date_of_registration": "13 Mei 2019",
+        "lending_type": "Konvensional dan Syariah",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "amartha",
+        "website": "https://amartha.com",
+        "company_name": "PT Amartha Mikro Fintek",
+        "official_register": "KEP-46/D.05/2019",
+        "date_of_registration": "13 Mei 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DOMPET Kilat",
+        "website": "https://www.dompetkilat.co.id",
+        "company_name": "PT Indo Fin Tek",
+        "official_register": "KEP-47/D.05/2019",
+        "date_of_registration": "13 Mei 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KIMO",
+        "website": "http://kimo.co.id",
+        "company_name": "PT Creative Mobile Adventure",
+        "official_register": "KEP-48/D.05/2019",
+        "date_of_registration": "13 Mei 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "TOKO MODAL",
+        "website": "https://www.tokomodal.co.id",
+        "company_name": "PT Toko Modal Mitra Usaha",
+        "official_register": "KEP-49/D.05/2019",
+        "date_of_registration": "24 Mei 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "UANGTEMAN",
+        "website": "https://uangteman.com",
+        "company_name": "PT Digital Alpha Indonesia",
+        "official_register": "KEP-50/D.05/2019",
+        "date_of_registration": "24 Mei 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "modalku",
+        "website": "https://modalku.co.id",
+        "company_name": "PT Mitrausaha Indonesia Grup",
+        "official_register": "KEP-81/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KTA KILAT",
+        "website": "http://www.pendanaan.com",
+        "company_name": "PT Pendanaan Teknologi Nusa",
+        "official_register": "KEP-82/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Kredit Pintar",
+        "website": "http://kreditpintar.co.id",
+        "company_name": "PT Kredit Pintar Indonesia",
+        "official_register": "KEP-83/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Maucash",
+        "website": "http://maucash.id",
+        "company_name": "PT Astra Welab Digital Arta",
+        "official_register": "KEP-84/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Finmas",
+        "website": "https://www.finmas.co.id",
+        "company_name": "PT Oriente Mas Sejahtera",
+        "official_register": "KEP-85/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KlikACC",
+        "website": "https://klikacc.co.id",
+        "company_name": "PT Aman Cermat Cepat",
+        "official_register": "KEP-87/D.05/2019",
+        "date_of_registration": "30 September 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Akseleran",
+        "website": "https://www.akseleran.co.id",
+        "company_name": "PT Akseleran Keuangan Inklusif Indonesia",
+        "official_register": "KEP-122/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Ammana.id",
+        "website": "https://ammana.id",
+        "company_name": "PT Ammana Fintek Syariah",
+        "official_register": "KEP-123/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "PinjamanGO",
+        "website": "https://www.pinjamango.co.id",
+        "company_name": "PT Dana Pinjaman Inklusif",
+        "official_register": "KEP-124/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KoinP2P",
+        "website": "https://koinp2p.com",
+        "company_name": "PT Lunaria Annua Teknologi",
+        "official_register": "KEP-125/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "pohondana",
+        "website": "http://pohondana.id",
+        "company_name": "PT Pohon Dana Indonesia",
+        "official_register": "KEP-126/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "MEKAR",
+        "website": "https://mekar.id",
+        "company_name": "PT Mekar Investama Sampoerna",
+        "official_register": "KEP-127/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "AdaKami",
+        "website": "www.adakami.id",
+        "company_name": "PT Pembiayaan Digital Indonesia",
+        "official_register": "KEP-128/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ESTA KAPITAL FINTEK",
+        "website": "https://www.estakapital.co.id",
+        "company_name": "PT Esta Kapital Fintek",
+        "official_register": "KEP-129/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KREDITPRO",
+        "website": "http://kreditpro.id",
+        "company_name": "PT Tri Digi Fin",
+        "official_register": "KEP-130/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "FINTAG",
+        "website": "http://fintag.id",
+        "company_name": "PT Fintegra Homido Indonesia",
+        "official_register": "KEP-131/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "RUPIAH CEPAT",
+        "website": "www.rupiahcepat.co.id",
+        "company_name": "PT Kredit Utama Fintech Indonesia",
+        "official_register": "KEP-132/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "CROWDO",
+        "website": "https://crowdo.co.id",
+        "company_name": "PT Mediator Komunitas Indonesia",
+        "official_register": "KEP-133/D.05/2019",
+        "date_of_registration": "13 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Indodana",
+        "website": "indodana.id",
+        "company_name": "PT Artha Dana Teknologi",
+        "official_register": "KEP- 15/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "JULO",
+        "website": "www.julo.co.id",
+        "company_name": "PT Julo Teknologi Finansial",
+        "official_register": "KEP- 16/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Pinjamwinwin",
+        "website": "pinjamwinwin.com",
+        "company_name": "PT Progo Puncak Group",
+        "official_register": "KEP- 17/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DanaRupiah",
+        "website": "danarupiah.id",
+        "company_name": "PT Layanan Keuangan Berbagi",
+        "official_register": "KEP- 18/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Taralite",
+        "website": "www.taralite.com",
+        "company_name": "PT Indonusa Bara Sejahtera",
+        "official_register": "KEP- 19/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Pinjam Modal",
+        "website": "pinjammodal.id",
+        "company_name": "PT Finansial Integrasi Teknologi",
+        "official_register": "KEP- 20/D.05/2020",
+        "date_of_registration": "19 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ALAMI",
+        "website": "p2p.alamisharia.co.id",
+        "company_name": "PT Alami Fintek Sharia",
+        "official_register": "KEP- 21/D.05/2020",
+        "date_of_registration": "27 Mei 2020",
+        "lending_type": "Syariah",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "AwanTunai",
+        "website": "www.awantunai.co.id",
+        "company_name": "PT Simplefi Teknologi Indonesia",
+        "official_register": "KEP- 22/D.05/2020",
+        "date_of_registration": "27 Mei 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Danakini",
+        "website": "https://danakini.co.id",
+        "company_name": "PT Dana Kini Indonesia",
+        "official_register": "KEP-46/D.05/2020",
+        "date_of_registration": "16 Oktober 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Singa",
+        "website": "http://singa.id",
+        "company_name": "PT Abadi Sejahtera Finansindo",
+        "official_register": "KEP-47/D.05/2020",
+        "date_of_registration": "16 Oktober 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DANAMERDEKA",
+        "website": "http://danamerdeka.co.id",
+        "company_name": "PT Intekno Raya",
+        "official_register": "KEP-48/D.05/2020",
+        "date_of_registration": "16 Oktober 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "EASYCASH",
+        "website": "http://indo.geteasycash.asia",
+        "company_name": "PT Indonesia Fintopia Technology",
+        "official_register": "KEP-49/D.05/2020",
+        "date_of_registration": "16 Oktober 2020",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "PINJAM YUK",
+        "website": "http://www.pinjamyuk.co.id",
+        "company_name": "PT Kuaikuai Tech Indonesia",
+        "official_register": "KEP-2/D.05/2021",
+        "date_of_registration": "6 Januari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "FinPlus",
+        "website": "www.finplus.co.id",
+        "company_name": "PT Rezeki Bersama Teknologi",
+        "official_register": "KEP-3/D.05/2021",
+        "date_of_registration": "6 Januari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "UangMe",
+        "website": "http://uangme.id",
+        "company_name": "PT Uangme Fintek Indonesia",
+        "official_register": "KEP-4/D.05/2021",
+        "date_of_registration": "6 Januari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "PinjamDuit",
+        "website": "http://pinjamduit.co.id",
+        "company_name": "PT Stanford Teknologi Indonesia",
+        "official_register": "KEP-5/D.05/2021",
+        "date_of_registration": "6 Januari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DANA Syariah",
+        "website": "http://danasyariah.id",
+        "company_name": "PT Dana Syariah Indonesia",
+        "official_register": "KEP-10/D.05/2021",
+        "date_of_registration": "23 Februari 2021",
+        "lending_type": "Syariah",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "BATUMBU",
+        "website": "www.batumbu.id",
+        "company_name": "PT Berdayakan Usaha Indonesia",
+        "official_register": "KEP-11/D.05/2021",
+        "date_of_registration": "23 Februari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Cashcepat",
+        "website": "http://cashcepat.id",
+        "company_name": "PT Artha Permata Makmur",
+        "official_register": "KEP-12/D.05/2021",
+        "date_of_registration": "23 Februari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "klikUMKM",
+        "website": "www.klikUMKM.co.id",
+        "company_name": "PT Pinjaman Kemakmuran Rakyat",
+        "official_register": "KEP-13/D.05/2021",
+        "date_of_registration": "23 Februari 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Pinjam Gampang",
+        "website": "http://www.kreditplusteknologi.id",
+        "company_name": "PT Kredit Plus Teknologi",
+        "official_register": "KEP-16/D.05/2021",
+        "date_of_registration": "16 Maret 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "cicil",
+        "website": "https://www.cicil.co.id",
+        "company_name": "PT Cicil Solusi Mitra Teknologi",
+        "official_register": "KEP-20/D.05/2021",
+        "date_of_registration": "14 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "lumbungdana",
+        "website": "http://lumbungdana.co.id",
+        "company_name": "PT Lumbung Dana Indonesia",
+        "official_register": "KEP-21/D.05/2021",
+        "date_of_registration": "14 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KREDI",
+        "website": "www.360kredi.id",
+        "company_name": "PT Inovasi Terdepan Nusantara",
+        "official_register": "KEP-22/D.05/2021",
+        "date_of_registration": "14 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Dhanapala",
+        "website": "www.dhanapala.id",
+        "company_name": "PT Semangat Gotong Royong",
+        "official_register": "KEP-23/D.05/2021",
+        "date_of_registration": "14 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Kredinesia",
+        "website": "www.kredinesia.id",
+        "company_name": "PT Kreditku Teknologi Indonesia",
+        "official_register": "KEP-25/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Pintek",
+        "website": "http://pintek.id",
+        "company_name": "PT Pinduit Teknologi Indonesia",
+        "official_register": "KEP-26/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ModalRakyat",
+        "website": "http://modalrakyat.id",
+        "company_name": "PT Modal Rakyat Indonesia",
+        "official_register": "KEP-27/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "SOLUSIKU",
+        "website": "www.solusi-ku.id",
+        "company_name": "PT Anugerah Digital Indonesia",
+        "official_register": "KEP-28/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Cairin",
+        "website": "www.cairin.id",
+        "company_name": "PT Idana Solusi Sejahtera",
+        "official_register": "KEP-29/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "TrustIQ",
+        "website": "http://trustiq.id",
+        "company_name": "PT Trust Teknologi Finansial",
+        "official_register": "KEP-30/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KLIK KAMI",
+        "website": "www.klikkami.co.id",
+        "company_name": "PT Harapan Fintech Indonesia",
+        "official_register": "KEP-31/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Duha SYARIAH",
+        "website": "www.duhasyariah.com",
+        "company_name": "PT Duha Madani Syariah",
+        "official_register": "KEP-32/D.05/2021",
+        "date_of_registration": "21 April 2021",
+        "lending_type": "Syariah",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Invoila",
+        "website": "http://invoila.co.id",
+        "company_name": "PT Sol Mitra Fintec",
+        "official_register": "KEP-39/D.05/2021",
+        "date_of_registration": "11 Mei 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Sanders One Stop Solution",
+        "website": "http://sanders.co.id",
+        "company_name": "PT Satustop Finansial Solusi",
+        "official_register": "KEP-40/D.05/2021",
+        "date_of_registration": "11 Mei 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DanaBagus",
+        "website": "www.danabagus.id",
+        "company_name": "PT Dana Bagus Indonesia",
+        "official_register": "KEP-41/D.05/2021",
+        "date_of_registration": "11 Mei 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KREDITO",
+        "website": "https://kredito.id",
+        "company_name": "PT Fintek Digital Indonesia",
+        "official_register": "KEP-47/D.05/2021",
+        "date_of_registration": "2 Juni 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Modal Nasional",
+        "website": "www.modalnasional.co.id",
+        "company_name": "PT Solusi Teknologi Finansial",
+        "official_register": "KEP-50/D.05/2021",
+        "date_of_registration": "2 Juni 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Komunal",
+        "website": "www.komunal.co.id",
+        "company_name": "PT Komunal Finansial Indonesia",
+        "official_register": "KEP-51/D.05/2021",
+        "date_of_registration": "2 Juni 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Android dan iOS",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Restock.ID",
+        "website": "www.restock.id",
+        "company_name": "PT Cerita Teknologi Indonesia",
+        "official_register": "KEP-52/D.05/2021",
+        "date_of_registration": "2 Juni 2021",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "TunaiKita",
+        "website": "https://www.tunaikita.com",
+        "company_name": "PT Digital Tunai Kita",
+        "official_register": "S-3973/NB.111/2017",
+        "date_of_registration": "24 Agustus 2017",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "iGrow",
+        "website": "https://igrow.asia",
+        "company_name": "PT iGrow Resources Indonesia",
+        "official_register": "S-4438/NB.111/2017",
+        "date_of_registration": "18 September 2017",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Cashwagon",
+        "website": "https://cashwagon.id",
+        "company_name": "PT Kas Wagon Indonesia",
+        "official_register": "S-5475/NB.111/2017",
+        "date_of_registration": "08 November 2017",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "GRADANA",
+        "website": "https://gradana.co.id",
+        "company_name": "PT Gradana Teknoruci Indonesia",
+        "official_register": "S-6297/NB.111/2017",
+        "date_of_registration": "27 Desember 2017",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Findaya",
+        "website": "http://findaya.co.id",
+        "company_name": "PT Mapan Global Reksa",
+        "official_register": "S-7/NB.11/2018",
+        "date_of_registration": "08 Januari 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "AKTIVAKU",
+        "website": "http://www.aktivaku.id",
+        "company_name": "PT Aktivaku Investama Teknologi",
+        "official_register": "S-8/NB.11/2018",
+        "date_of_registration": "08 Januari 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KrediFazz",
+        "website": "https://kredifazz.id",
+        "company_name": "PT FinAccel Digital Indonesia",
+        "official_register": "S-236/NB.213/2018",
+        "date_of_registration": "20 Maret 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "iTernak",
+        "website": "https://iternak.id/",
+        "company_name": "PT Perlu Fintech Indonesia",
+        "official_register": "S-257/NB.213/2018",
+        "date_of_registration": "06 April 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "CROWDE",
+        "website": "https://crowde.co",
+        "company_name": "PT Crowde Membangun Bangsa",
+        "official_register": "S-270/NB.213/2018",
+        "date_of_registration": "12 April 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "TaniFund",
+        "website": "https://tanifund.id",
+        "company_name": "PT Tani Fund Madani Indonesia",
+        "official_register": "S-278/NB.213/2018",
+        "date_of_registration": "20 April 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "danaIN",
+        "website": "https://www.danain.co.id",
+        "company_name": "PT Mulia Inovasi Digital",
+        "official_register": "S-280/NB.213/2018",
+        "date_of_registration": "20 April 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Indofund.id",
+        "website": "https://indofund.id",
+        "company_name": "PT Bursa Akselerasi Indonesia",
+        "official_register": "S-282/NB.213/2018",
+        "date_of_registration": "23 April 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "AVANTEE",
+        "website": "http://www.avantee.co.id",
+        "company_name": "PT Grha Dana Bersama",
+        "official_register": "S-320/NB.213/2018",
+        "date_of_registration": "23 Mei 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "danabijak",
+        "website": "http://danabijak.co.id",
+        "company_name": "PT Digital Micro Indonesia",
+        "official_register": "S-381/NB.213/2018",
+        "date_of_registration": "08 Juni 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KawanCicil",
+        "website": "http://kawancicil.co.id",
+        "company_name": "PT Kawan Cicil Teknologi Utama",
+        "official_register": "S-387/NB.213/2018",
+        "date_of_registration": "08 Juni 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KREDITCEPAT",
+        "website": "http://kreditcepat.co.id",
+        "company_name": "PT Alfa Fintech Indonesia",
+        "official_register": "S-389/NB.213/2018",
+        "date_of_registration": "08 Juni 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Danacita",
+        "website": "http://danacita.co.id",
+        "company_name": "PT Inclusive Finance Group",
+        "official_register": "S-688/NB.213/2018",
+        "date_of_registration": "21 September 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Danai.id",
+        "website": "http://danai.id",
+        "company_name": "PT Adiwisista Finansial Teknologi",
+        "official_register": "S-960/NB.213/2018",
+        "date_of_registration": "16 Oktober 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DANAMART",
+        "website": "http://danamart.id",
+        "company_name": "PT Dana Aguna Nusantara",
+        "official_register": "S-1059/NB.213/2018",
+        "date_of_registration": "28 November 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "samakita",
+        "website": "http://samakita.co.id",
+        "company_name": "PT Sejahtera Sama Kita",
+        "official_register": "S-1060/NB.213/2018",
+        "date_of_registration": "28 November 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "vestia",
+        "website": "http://web.vestia.co.id",
+        "company_name": "PT Tujuh Mandiri Sejahtera",
+        "official_register": "S-1074/NB.213/2018",
+        "date_of_registration": "07 Desember 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Asetku",
+        "website": "http://asetku.co.id",
+        "company_name": "PT Pintar Inovasi Digital",
+        "official_register": "S-1110/NB.213/2018",
+        "date_of_registration": "21 Desember 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "danafix",
+        "website": "http://danafix.id",
+        "company_name": "PT Danafix Online Indonesia",
+        "official_register": "S-1111/NB.213/2018",
+        "date_of_registration": "21 Desember 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "LAHANSIKAM",
+        "website": "https://lahansikam.co.id",
+        "company_name": "PT Lampung Berkah Finansial Teknologi",
+        "official_register": "S-1113/NB.213/2018",
+        "date_of_registration": "21 Desember 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ShopeePayLater",
+        "website": "www.lenteradana.co.id",
+        "company_name": "PT Lentera Dana Nusantara",
+        "official_register": "S-1116/NB.213/2018",
+        "date_of_registration": "21 Desember 2018",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "UKU",
+        "website": "www.ukuindo.com",
+        "company_name": "PT Teknologi Merlin Sejahtera",
+        "official_register": "S-58/NB.213/2019",
+        "date_of_registration": "1 Februari 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "gandengtangan",
+        "website": "www.gandengtangan.co.id",
+        "company_name": "PT Kreasi Anak Indonesia",
+        "official_register": "S-63/NB.213/2019",
+        "date_of_registration": "1 Februari 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "JEMBATANEMAS",
+        "website": "www.jembatanemas.id",
+        "company_name": "PT Akur Dana Abadi",
+        "official_register": "S-219/NB.213/2019",
+        "date_of_registration": "8 April 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "asakita",
+        "website": "www.asakita.id",
+        "company_name": "PT Digitron Solusi Indonesia",
+        "official_register": "S-291/NB.213/2019",
+        "date_of_registration": "30 April 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "qazwa",
+        "website": "www.qazwa.id",
+        "company_name": "PT Qazwa Mitra Hasanah",
+        "official_register": "S-440/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "One Hope",
+        "website": "www.onehope.co.id",
+        "company_name": "PT Teknologi Indonesia Sentosa",
+        "official_register": "S-442/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Adapundi",
+        "website": "www.adapundi.com",
+        "company_name": "PT Info Tekno Siaga",
+        "official_register": "S-448/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Tree+",
+        "website": "www.treeplus.id",
+        "company_name": "PT Satrio Jaya Persada",
+        "official_register": "S-449/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "edufund",
+        "website": "www.edufund.co.id",
+        "company_name": "PT Fintech Bina Bangsa",
+        "official_register": "S-451/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "FinanKu",
+        "website": "http://finanku.com",
+        "company_name": "PT Smart Karya Digital",
+        "official_register": "S-452/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "UATAS",
+        "website": "www.uatas.id",
+        "company_name": "PT Plus Ultra Abadi",
+        "official_register": "S-454/NB.213/2019",
+        "date_of_registration": "7 Agustus 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "dumi",
+        "website": "http://minjem.com",
+        "company_name": "PT Fidac Inovasi Teknologi",
+        "official_register": "S-602/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Pundiku",
+        "website": "http://pundiku.net",
+        "company_name": "PT Pundiku Mitra Sejahtera",
+        "official_register": "S-603/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "TEMAN PRIMA",
+        "website": "https://www.temanprima.co.id",
+        "company_name": "PT Prima Fintech Indonesia",
+        "official_register": "S-615/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "OK!P2P",
+        "website": "www.okp2p.co.id",
+        "company_name": "PT Oke Ptop Indonesia",
+        "official_register": "S-601/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "DoeKu",
+        "website": "https://doeku.id",
+        "company_name": "PT Doeku Peduli Indonesia",
+        "official_register": "S-599/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "BANTUSAKU",
+        "website": "www.smartec.co.id",
+        "company_name": "PT Smartec Teknologi Indonesia",
+        "official_register": "S-610/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KlikCair",
+        "website": "klikcair.com",
+        "company_name": "PT Klikcair Magga Jaya",
+        "official_register": "S-607/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "AdaModal",
+        "website": "http://adamodal.co.id",
+        "company_name": "PT Solid Fintek Indonesia",
+        "official_register": "S-606/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "kontanku",
+        "website": "www.kontanku.id",
+        "company_name": "PT PAM Finansial Teknologi",
+        "official_register": "S-613/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ikimodal",
+        "website": "www.ikimodal.com",
+        "company_name": "PT IKI Karunia Indonesia",
+        "official_register": "S-611/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "ETHIS",
+        "website": "https://ethis.co.id",
+        "company_name": "PT Ethis Fintek Indonesia",
+        "official_register": "S-608/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KAPITALBOOST",
+        "website": "https://kapitalboost.co.id",
+        "company_name": "PT Kapital Boost Indonesia",
+        "official_register": "S-609/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "PAPITUPI Syariah",
+        "website": "www.papitupisyariah.com",
+        "company_name": "PT Piranti Alphabet Perkasa",
+        "official_register": "S-612/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Finteck Syariah",
+        "website": "www.finteksyariah.co.id",
+        "company_name": "PT Berkah Finteck Syariah",
+        "official_register": "S-600/NB.213/2019",
+        "date_of_registration": "30 Oktober 2019",
+        "lending_type": "Syariah",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Samir",
+        "website": "www.samir.co.id",
+        "company_name": "PT Sahabat Mikro Fintek",
+        "official_register": "S-716/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Web",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Optima",
+        "website": "www.optimaapp.co.id",
+        "company_name": "PT Evian Teknologi Indonesia",
+        "official_register": "S-719/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "BBX FINTECH",
+        "website": "www.bbxfintech.co.id",
+        "company_name": "PT BBX Digital Teknologi",
+        "official_register": "S-722/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Ringan",
+        "website": "www.ringan.co.id",
+        "company_name": "PT Ringan Teknologi Indonesia",
+        "official_register": "S-729/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "Saku Ceria",
+        "website": "https://sakuceria.id",
+        "company_name": "PT Solusi Bijak Indonesia",
+        "official_register": "S-730/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "indosaku",
+        "website": "https://indosaku.id",
+        "company_name": "PT Sens Teknologi Indonesia",
+        "official_register": "S-731/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "SolusiKita",
+        "website": "www.jayindo.id",
+        "company_name": "PT Jayindo Fintek Pratama",
+        "official_register": "S-732/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "IVOJI",
+        "website": "www.ivoji.id",
+        "company_name": "PT Finansia Aira Teknologi",
+        "official_register": "S-733/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "pinjamindo",
+        "website": "https//www.pinjamindo.co.id",
+        "company_name": "PT Serba Digital Teknologi",
+        "official_register": "S-734/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    },
+    {
+        "platform_name": "KOTAK KOIN",
+        "website": "www.kotakkoin.id",
+        "company_name": "PT Coco Digital Technology",
+        "official_register": "S-735/NB.213/2019",
+        "date_of_registration": "20 Desember 2019",
+        "lending_type": "Konvensional",
+        "platform_type": "Android",
+        "last_updated": "2021-06-10"
+    }
+]
