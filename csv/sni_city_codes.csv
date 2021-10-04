@@ -1,0 +1,483 @@
+province,city,capital,sni_code
+Daerah Istimewa Aceh,Kabupaten Bener Meriah,Simpang Tiga Redelong,STR
+Daerah Istimewa Aceh,Kabupaten Pidie Jaya,Meureundu,MRN
+Daerah Istimewa Aceh,Kota Banda Aceh,Banda Aceh,BNA
+Daerah Istimewa Aceh,Kota Sabang,Sabang,SAB
+Daerah Istimewa Aceh,Kota Lhokseumawe,Lhokseumawe,LSM
+Daerah Istimewa Aceh,Kota Langsa,Langsa,LGS
+Daerah Istimewa Aceh,Kota Subulussalam,Subulussalam,SUS
+Sumatera Utara,Kabupaten Tapanuli Tengah,Sibolga,SBG
+Sumatera Utara,Kabupaten Tapanuli Utara,Tarutung,TRT
+Sumatera Utara,Kabupaten Tapanuli Selatan,Padang Sidempuan,PSP
+Sumatera Utara,Kabupaten Nias,Gunungsitoli,GST
+Sumatera Utara,Kabupaten Langkat,Stabat,STB
+Sumatera Utara,Kabupaten Karo,Kabanjahe,KBJ
+Sumatera Utara,Kabupaten Deli Serdang,Lubuk Pakam,LBP
+Sumatera Utara,Kabupaten Simalungun,Pematang Siantar,PMS
+Sumatera Utara,Kabupaten Asahan,Kisaran,KIS
+Sumatera Utara,Kabupaten Labuhanbatu,Rantau Prapat,RAP
+Sumatera Utara,Kabupaten Dairi,Sidikalang,SDK
+Sumatera Utara,Kabupaten Toba Samosir,Balige,BLG
+Sumatera Utara,Kabupaten Mandailing Natal,Panyabungan,PYB
+Sumatera Utara,Kabupaten Nias Selatan,Teluk Dalam,TLD
+Sumatera Utara,Kabupaten Pakpak Bharat,Salak,SAL
+Sumatera Utara,Kabupaten Humbang Hasundutan,Dolok Sanggul,DLS
+Sumatera Utara,Kabupaten Samosir,Pangururan,PRR
+Sumatera Utara,Kabupaten Serdang Bedagai,Sei Rampah,SRH
+Sumatera Utara,Kabupaten Batu Bara,Lima Puluh,LMP
+Sumatera Utara,Kabupaten Padang Lawas Utara,Gunung Tua,GNT
+Sumatera Utara,Kabupaten Padang Lawas,Sibuhuan,SBH
+Sumatera Utara,Kabupaten Labuhanbatu Selatan,Kota Pinang,KPI
+Sumatera Utara,Kabupaten Labuhanbatu Utara,Aek Kanopan,AKK
+Sumatera Utara,Kabupaten Nias Utara,Lotu,LTU
+Sumatera Utara,Kabupaten Nias Barat,Lahomi,LHM
+Sumatera Utara,Kota Medan,Medan,MDN
+Sumatera Utara,Kota Pematangsiantar,Pematangsiantar,PMS
+Sumatera Utara,Kota Sibolga,Sibolga,SBG
+Sumatera Utara,Kota Tanjung Balai,Tanjung Balai,TJB
+Sumatera Utara,Kota Binjai,Binjai,BNJ
+Sumatera Utara,Kota Tebing Tinggi,Tebing Tinggi,TBT
+Sumatera Utara,Kota Padang Sidempuan,Padang Sidempuan,PSP
+Sumatera Utara,Kota Gunungsitoli,Gunungsitoli,GST
+Sumatera Barat,Kabupaten Pesisir Selatan,Painan,PNN
+Sumatera Barat,Kabupaten Solok,Arosuka,ARS
+Sumatera Barat,Kabupaten Sijunjung,Muaro Sijunjung,MRJ
+Sumatera Barat,Kabupaten Tanah Datar,Batusangkar,BSK
+Sumatera Barat,Kabupaten Padang Pariaman,Nagari Parit Malintang,NPM
+Sumatera Barat,Kabupaten Agam,Lubuk Basung,LBB
+Sumatera Barat,Kabupaten Lima Puluh Kota,Sarilamak,SRK
+Sumatera Barat,Kabupaten Pasaman,Lubuk Sikaping,LBS
+Sumatera Barat,Kabupaten Kepulauan Mentawai,Tuapejat,TPT
+Sumatera Barat,Kabupaten Dharmasraya,Pulau Punjung,PLJ
+Sumatera Barat,Kabupaten Solok Selatan,Padang Aro,PDA
+Sumatera Barat,Kabupaten Pasaman Barat,Simpang Empat,SPE
+Sumatera Barat,Kota Padang,Padang,PAD
+Sumatera Barat,Kota Solok,Solok,SLK
+Sumatera Barat,Kota Sawahlunto,Sawahlunto,SWL
+Sumatera Barat,Kota Padang Panjang,Padang Panjang,PDP
+Sumatera Barat,Kota Bukittinggi,Bukittinggi,BKT
+Sumatera Barat,Kota Payakumbuh,Payakumbuh,PYH
+Sumatera Barat,Kota Pariaman,Pariaman,PMN
+Riau,Kabupaten Kampar,Bangkinang,BKN
+Riau,Kabupaten Indragiri Hulu,Rengat,RGT
+Riau,Kabupaten Bengkalis,Bengkalis,BLS
+Riau,Kabupaten Indragiri Hilir,Tembilahan,TBH
+Riau,Kabupaten Pelalawan,Pangkalan Kerinci,PKK
+Riau,Kabupaten Rokan Hulu,Pasir Pengarairan,PRP
+Riau,Kabupaten Rokan Hilir,Ujung Tanjung,UJT
+Riau,Kabupaten Siak,Siak Sriindrapura,SAK
+Riau,Kabupaten Kuantan Singingi,Teluk Kuantan,TLK
+Riau,Kabupaten Kepulauan Meranti,Tebing Tinggi,TTG
+Riau,Kota Pekanbaru,Pekanbaru,PBR
+Riau,Kota Dumai,Dumai,DUM
+Jambi,Kabupaten Kerinci,Sungai Penuh,SPN
+Jambi,Kabupaten Merangin,Bangko,BKO
+Jambi,Kabupaten Sarolangun,Sarolangun,SRL
+Jambi,Kabupaten Batanghari,Muara Bulian,MBN
+Jambi,Kabupaten Muaro Jambi,Sengeti,SNT
+Jambi,Kabupaten Tanjung Jabung Barat,Kuala Tungkal,KLT
+Jambi,Kabupaten Tanjung Jabung Timur,Muara Sabak,MSK
+Jambi,Kabupaten Bungo,Muara Bungo,MRB
+Jambi,Kabupaten Tebo,Muara Tebo,MRT
+Jambi,Kota Jambi,Jambi,JMB
+Jambi,Kota Sungai Penuh,Sungai Penuh,SPN
+Sumatera Selatan,Kabupaten Ogan Komering Ulu,Baturaja,BTA
+Sumatera Selatan,Kabupaten Ogan Komering Ilir,Kayu Agung,KAG
+Sumatera Selatan,Kabupaten Muara Enim,Muara Enim,MRE
+Sumatera Selatan,Kabupaten Lahat,Lahat,LHT
+Sumatera Selatan,Kabupaten Musi Rawas,Muarabeliti,MBL
+Sumatera Selatan,Kabupaten Musi Banyuasin,Sekayu,SKY
+Sumatera Selatan,Kabupaten Banyuasin,Pangkalan Balai,PKB
+Sumatera Selatan,Kabupaten Oku Timur,Martapura,MPR
+Sumatera Selatan,Kabupaten Oku Selatan,Muaradua,MRD
+Sumatera Selatan,Kabupaten Ogan Ilir,Indralaya,IDL
+Sumatera Selatan,Kabupaten Empat Lawang,Tebing Tinggi,TBG
+Sumatera Selatan,Kota Palembang,Pelembang,PLG
+Sumatera Selatan,Kota Pagar Alam,Pagar Alam,PGA
+Sumatera Selatan,Kota Lubuk Linggau,Lubuk Linggau,LLG
+Sumatera Selatan,Kota Prabumulih,Prabumulih,PBM
+Bengkulu,Kabupaten Bengkulu Selatan,Manna,MNA
+Bengkulu,Kabupaten Rejang Lebong,Curup,CRP
+Bengkulu,Kabupaten Bengkulu Utara,Arga Makmur,AGM
+Bengkulu,Kabupaten Kaur,Bintuhan,BHN
+Bengkulu,Kabupaten Seluma,Tais,TAS
+Bengkulu,Kabupaten Muko Muko,Mukomuko,MKM
+Bengkulu,Kabupaten Lebong,Tubei,TUB
+Bengkulu,Kabupaten Kepahiang,Kepahiang,KPH
+Bengkulu,Kabupaten Bengkulu Tengah,Karang Tinggi,KRT
+Bengkulu,Kota Bengkulu,Bengkulu,BGL
+Lampung,Kabupaten Lampung Selatan,Kalianda,KLA
+Lampung,Kabupaten Lampung Tengah,Gunung Sugih,GNS
+Lampung,Kabupaten Lampung Utara,Kotabumi,KTB
+Lampung,Kabupaten Lampung Barat,Liwa,LIW
+Lampung,Kabupaten Tulang Bawang,Menggala,MGL
+Lampung,Kabupaten Tanggamus,Kota Agung,KOT
+Lampung,Kabupaten Lampung Timur,Sukadana,SDN
+Lampung,Kabupaten Way Kanan,Blambangan Umpu,BBU
+Lampung,Kabupaten Pesawaran,Gedong Tataan,GDT
+Lampung,Kabupaten Pringsewu,Pringsewu,PRW
+Lampung,Kabupaten Mesuji,Mesuji,MSJ
+Lampung,Kabupaten Tulang Bawang Barat,Tulang Bawang Tengah,TWG
+Lampung,Kota Bandar Lampung,Bandar Lampung,BDL
+Lampung,Kota Metro,Metro,MET
+Kepulauan Bangka Belitung,Kabupaten Bangka,Sungai Liat,SGL
+Kepulauan Bangka Belitung,Kabupaten Belitung,Tanjung Pandan,TDN
+Kepulauan Bangka Belitung,Kabupaten Bangka Selatan,Toboali,TBL
+Kepulauan Bangka Belitung,Kabupaten Bangka Tengah,Koba,KBA
+Kepulauan Bangka Belitung,Kabupaten Bangka Barat,Mentok,MTK
+Kepulauan Bangka Belitung,Kabupaten Belitung Timur,Manggar,MGR
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,Pangkal Pinang,PGP
+Kepulauan Riau,Kabupaten Bintan,Bandar Seri Bentan,BSB
+Kepulauan Riau,Kabupaten Karimun,Tanjung Balai Karimun,TBK
+Kepulauan Riau,Kabupaten Natuna,Ranai,RAN
+Kepulauan Riau,Kabupaten Lingga,Daik Lingga,DKL
+Kepulauan Riau,Kabupaten Kepulauan Anambas,Tarempa,TRP
+Kepulauan Riau,Kota Batam,Batam,BTM
+Kepulauan Riau,Kota Tanjung Pinang,Tanjung Pinang,TPG
+Daerah Khusus Ibukota Jakarta,Kabupaten Adm. Kepulauan Seribu,Kepulauan Seribu Utara,KSU
+Daerah Khusus Ibukota Jakarta,Kota Adm. Jakarta Pusat,Tanah Abang,TNA
+Daerah Khusus Ibukota Jakarta,Kota Adm. Jakarta Utara,Tanjungpriok,TJP
+Daerah Khusus Ibukota Jakarta,Kota Adm. Jakarta Barat,Grogol Petamburan,GGP
+Daerah Khusus Ibukota Jakarta,Kota Adm. Jakarta Selatan,Kebayoran Baru,KYB
+Daerah Khusus Ibukota Jakarta,Kota Adm. Jakarta Timur,Cakung,CKG
+Jawa Barat,Kabupaten Bogor,Cibinong,CBI
+Jawa Barat,Kabupaten Sukabumi,Sukabumi,SBM
+Jawa Barat,Kabupaten Cianjur,Cianjur,CJR
+Jawa Barat,Kabupaten Bandung,Soreang,SOR
+Jawa Barat,Kabupaten Garut,Garut,GRT
+Jawa Barat,Kabupaten Tasikmalaya,Singaparna,SPA
+Jawa Barat,Kabupaten Ciamis,Ciamis,CMS
+Jawa Barat,Kabupaten Kuningan,Kuningan,KNG
+Jawa Barat,Kabupaten Cirebon,Sumber,SBR
+Jawa Barat,Kabupaten Majalengka,Majalengka,MJL
+Jawa Barat,Kabupaten Sumedang,Sumedang,SMD
+Jawa Barat,Kabupaten Indramayu,Indramayu,IDM
+Jawa Barat,Kabupaten Subang,Subang,SNG
+Jawa Barat,Kabupaten Purwakarta,Purwakarta,PWK
+Jawa Barat,Kabupaten Karawang,Karawang,KWG
+Jawa Barat,Kabupaten Bekasi,Cikarang,CKR
+Jawa Barat,Kabupaten Bandung Barat,Ngamprah,NPH
+Jawa Barat,Kota Bogor,Bogor,BGR
+Jawa Barat,Kota Sukabumi,Sukabumi,SKB
+Jawa Barat,Kota Bandung,Bandung,BDG
+Jawa Barat,Kota Cirebon,Cirebon,CBN
+Jawa Barat,Kota Bekasi,Bekasi,BKS
+Jawa Barat,Kota Depok,Depok,DPK
+Jawa Barat,Kota Cimahi,Cimahi,CMH
+Jawa Barat,Kota Tasikmalaya,Tasikmalaya,TSM
+Jawa Barat,Kota Banjar,Banjar,BJR
+Jawa Tengah,Kabupaten Cilacap,Cilacap,CLP
+Jawa Tengah,Kabupaten Banyumas,Purwokerto,PWT
+Jawa Tengah,Kabupaten Purbalingga,Purbalingga,PBG
+Jawa Tengah,Kabupaten Banjarnegara,Banjarnegara,BNR
+Jawa Tengah,Kabupaten Kebumen,Kebumen,KBM
+Jawa Tengah,Kabupaten Purworejo,Purworejo,PWR
+Jawa Tengah,Kabupaten Wonosobo,Wonosobo,WSB
+Jawa Tengah,Kabupaten Magelang,Mungkid,MKD
+Jawa Tengah,Kabupaten Boyolali,Boyolali,BYL
+Jawa Tengah,Kabupaten Klaten,Klaten,KLN
+Jawa Tengah,Kabupaten Sukoharjo,Sukoharjo,SKH
+Jawa Tengah,Kabupaten Wonogiri,Wonogiri,WNG
+Jawa Tengah,Kabupaten Karanganyar,Karanganyar,KRG
+Jawa Tengah,Kabupaten Sragen,Sragen,SGN
+Jawa Tengah,Kabupaten Grobogan,Purwodadi,PWD
+Jawa Tengah,Kabupaten Blora,Blora,BLA
+Jawa Tengah,Kabupaten Rembang,Rembang,RBG
+Jawa Tengah,Kabupaten Pati,Pati,PTI
+Jawa Tengah,Kabupaten Kudus,Kudus,KDS
+Jawa Tengah,Kabupaten Jepara,Jepara,JPA
+Jawa Tengah,Kabupaten Demak,Demak,DMK
+Jawa Tengah,Kabupaten Semarang,Ungaran,UNR
+Jawa Tengah,Kabupaten Temanggung,Temanggung,TMG
+Jawa Tengah,Kabupaten Kendal,Kendal,KDL
+Jawa Tengah,Kabupaten Batang,Batang,BTG
+Jawa Tengah,Kabupaten Pekalongan,Kajen,KJN
+Jawa Tengah,Kabupaten Pemalang,Pemalang,PML
+Jawa Tengah,Kabupaten Tegal,Slawi,SLW
+Jawa Tengah,Kabupaten Brebes,Brebes,BBS
+Jawa Tengah,Kota Magelang,Magelang,MGG
+Jawa Tengah,Kota Surakarta,Surakarta,SKT
+Jawa Tengah,Kota Salatiga,Salatiga,SLT
+Jawa Tengah,Kota Semarang,Semarang,SMG
+Jawa Tengah,Kota Pekalongan,Pekalongan,PKL
+Jawa Tengah,Kota Tegal,Tegal,TGL
+Daerah Istimewa Yogyakarta,Kabupaten Kulon Progo,Wates,WAT
+Daerah Istimewa Yogyakarta,Kabupaten Bantul,Bantul,BTL
+Daerah Istimewa Yogyakarta,Kabupaten Gunung Kidul,Wonosari,WNO
+Daerah Istimewa Yogyakarta,Kabupaten Sleman,Sleman,SMN
+Daerah Istimewa Yogyakarta,Kota Yogyakarta,Yogyakarta,YYK
+Jawa Timur,Kabupaten Pacitan,Pacitan,PCT
+Jawa Timur,Kabupaten Ponorogo,Ponorogo,PNG
+Jawa Timur,Kabupaten Trenggalek,Trenggalek,TRK
+Jawa Timur,Kabupaten Tulungagung,Tulungagung,TLG
+Jawa Timur,Kabupaten Blitar,Kanigoro,KNR
+Jawa Timur,Kabupaten Kediri,Kediri,KDR
+Jawa Timur,Kabupaten Malang,Kepanjen,KPN
+Jawa Timur,Kabupaten Lumajang,Lumajang,LMJ
+Jawa Timur,Kabupaten Jember,Jember,JMR
+Jawa Timur,Kabupaten Banyuwangi,Banyuwangi,BYW
+Jawa Timur,Kabupaten Bondowoso,Bondowoso,BDW
+Jawa Timur,Kabupaten Situbondo,Situbondo,SIT
+Jawa Timur,Kabupaten Probolinggo,Kraksaan,KRS
+Jawa Timur,Kabupaten Pasuruan,Pasuruan,PSR
+Jawa Timur,Kabupaten Sidoarjo,Sidoarjo,SDA
+Jawa Timur,Kabupaten Mojokerto,Mojokerto,MJK
+Jawa Timur,Kabupaten Jombang,Jombang,JBG
+Jawa Timur,Kabupaten Nganjuk,Nganjuk,NJK
+Jawa Timur,Kabupaten Madiun,Mejayan,MJY
+Jawa Timur,Kabupaten Magetan,Magetan,MGT
+Jawa Timur,Kabupaten Ngawi,Ngawi,NGW
+Jawa Timur,Kabupaten Bojonegoro,Bojonegoro,BJN
+Jawa Timur,Kabupaten Tuban,Tuban,TBN
+Jawa Timur,Kabupaten Lamongan,Lamongan,LMG
+Jawa Timur,Kabupaten Gresik,Gresik,GSK
+Jawa Timur,Kabupaten Bangkalan,Bangkalan,BKL
+Jawa Timur,Kabupaten Sampang,Sampang,SPG
+Jawa Timur,Kabupaten Pamekasan,Pamekasan,PMK
+Jawa Timur,Kabupaten Sumenep,Sumenep,SMP
+Jawa Timur,Kota Kediri,Kediri,KDR
+Jawa Timur,Kota Blitar,Blitar,BLT
+Jawa Timur,Kota Malang,Malang,MLG
+Jawa Timur,Kota Probolinggo,Probolinggo,PBL
+Jawa Timur,Kota Pasuruan,Pasuruan,PSN
+Jawa Timur,Kota Mojokerto,Mojokerto,MJK
+Jawa Timur,Kota Madiun,Madiun,MAD
+Jawa Timur,Kota Surabaya,Surabaya,SBY
+Jawa Timur,Kota Batu,Batu,BTU
+Banten,Kabupaten Pandeglang,Pandeglang,PDG
+Banten,Kabupaten Lebak,Rangkas Bitung,RKB
+Banten,Kabupaten Tangerang,Tigaraksa,TGR
+Banten,Kabupaten Serang,Serang,SRG
+Banten,Kota Tangerang,Tangerang,TNG
+Banten,Kota Cilegon,Cilegon,CLG
+Banten,Kota Serang,Serang,SRG
+Banten,Kota Tangerang Selatan,Ciputat,CPT
+Bali,Kabupaten Jembrana,Negara,NGA
+Bali,Kabupaten Tabanan,Tabanan,TAB
+Bali,Kabupaten Badung,Mengwi,MGW
+Bali,Kabupaten Gianyar,Gianyar,GIN
+Bali,Kabupaten Klungkung,Semarapura,SRP
+Bali,Kabupaten Bangli,Bangli,BLI
+Bali,Kabupaten Karangasem,Karangasem,KRA
+Bali,Kabupaten Buleleng,Singaraja,SGR
+Bali,Kota Denpasar,Denpasar,DPR
+Nusa Tenggara Barat,Kabupaten Lombok Barat,Gerung,GRG
+Nusa Tenggara Barat,Kabupaten Lombok Tengah,Praya,PYA
+Nusa Tenggara Barat,Kabupaten Lombok Timur,Selong,SEL
+Nusa Tenggara Barat,Kabupaten Sumbawa,Sumbawa Besar,SBW
+Nusa Tenggara Barat,Kabupaten Dompu,Dompu,DPU
+Nusa Tenggara Barat,Kabupaten Bima,Woha,WHO
+Nusa Tenggara Barat,Kabupaten Sumbawa Barat,Taliwang,TLW
+Nusa Tenggara Barat,Kabupaten Lombok Utara,Tanjung,TJN
+Nusa Tenggara Barat,Kota Mataram,Mataram,MTR
+Nusa Tenggara Barat,Kota Bima,Bima,BIM
+Nusa Tenggara Timur,Kabupaten Kupang,Kupang,KPG
+Nusa Tenggara Timur,Kabupaten Timor Tengah Selatan,Soe,SOE
+Nusa Tenggara Timur,Kabupaten Timor Tengah Utara,Kefamenanu,KFM
+Nusa Tenggara Timur,Kabupaten Belu,Atambua,ATB
+Nusa Tenggara Timur,Kabupaten Alor,Kalabahi,KLB
+Nusa Tenggara Timur,Kabupaten Flores Timur,Larantuka,LRT
+Nusa Tenggara Timur,Kabupaten Sikka,Maumere,MME
+Nusa Tenggara Timur,Kabupaten Ende,Ende,END
+Nusa Tenggara Timur,Kabupaten Ngada,Bajawa,BJW
+Nusa Tenggara Timur,Kabupaten Manggarai,Ruteng,RTG
+Nusa Tenggara Timur,Kabupaten Sumba Timur,Waingapu,WGP
+Nusa Tenggara Timur,Kabupaten Sumba Barat,Waikabubak,WKB
+Nusa Tenggara Timur,Kabupaten Lembata,Lewoleba,LWL
+Nusa Tenggara Timur,Kabupaten Rote Ndao,Baa,BAA
+Nusa Tenggara Timur,Kabupaten Manggarai Barat,Labuan Bajo,LBJ
+Nusa Tenggara Timur,Kabupaten Nagekeo,Mbay,MBY
+Nusa Tenggara Timur,Kabupaten Sumba Tengah,Waibakul,WBL
+Nusa Tenggara Timur,Kabupaten Sumba Barat Daya,Tambolaka,TAM
+Nusa Tenggara Timur,Kabupaten Manggarai Timur,Borong,BRG
+Nusa Tenggara Timur,Kabupaten Sabu Raijua,Sabu Barat,SBB
+Nusa Tenggara Timur,Kota Kupang,Kupang,KPG
+Kalimantan Barat,Kabupaten Sambas,Sambas,SBS
+Kalimantan Barat,Kabupaten Pontianak,Mempawah,MPW
+Kalimantan Barat,Kabupaten Sanggau,Sanggau,SAG
+Kalimantan Barat,Kabupaten Ketapang,Ketapang,KTP
+Kalimantan Barat,Kabupaten Sintang,Sintang,STG
+Kalimantan Barat,Kabupaten Kapuas Hulu,Putussibau,PTS
+Kalimantan Barat,Kabupaten Bengkayang,Bengkayang,BEK
+Kalimantan Barat,Kabupaten Landak,Ngabang,NBA
+Kalimantan Barat,Kabupaten Sekadau,Sekadau,SED
+Kalimantan Barat,Kabupaten Melawi,Nanga Pinoh,NGP
+Kalimantan Barat,Kabupaten Kayong Utara,Sukadane,SKD
+Kalimantan Barat,Kabupaten Kubu Raya,Sungai Raya,SRY
+Kalimantan Barat,Kota Pontianak,Pontianak,PTK
+Kalimantan Barat,Kota Singkawang,Singkawang,SKW
+Kalimantan Tengah,Kabupaten Kotawaringin Barat,Pangkalan Bun,PBU
+Kalimantan Tengah,Kabupaten Kotawaringin Timur,Sampit,SPT
+Kalimantan Tengah,Kabupaten Kapuas,Kuala Kapuas,KLK
+Kalimantan Tengah,Kabupaten Barito Selatan,Buntok,BNT
+Kalimantan Tengah,Kabupaten Barito Utara,Muara Teweh,MTW
+Kalimantan Tengah,Kabupaten Katingan,Kasongan,KSN
+Kalimantan Tengah,Kabupaten Seruyan,Kuala Pembuang,KLP
+Kalimantan Tengah,Kabupaten Sukamara,Sukamara,SKR
+Kalimantan Tengah,Kabupaten Lamandau,Nanga Bulik,NGB
+Kalimantan Tengah,Kabupaten Gunung Mas,Kuala Kurun,KKN
+Kalimantan Tengah,Kabupaten Pulang Pisau,Pulang Pisau,PPS
+Kalimantan Tengah,Kabupaten Murung Raya,Puruk Cahu,PRC
+Kalimantan Tengah,Kabupaten Barito Timur,Tamiang Layang,TML
+Kalimantan Tengah,Kota Palangkaraya,Palangkaraya,PLK
+Kalimantan Selatan,Kabupaten Tanah Laut,Pelaihari,PLI
+Kalimantan Selatan,Kabupaten Kotabaru,Kotabaru,KBR
+Kalimantan Selatan,Kabupaten Banjar,Martapura,MTP
+Kalimantan Selatan,Kabupaten Barito Kuala,Marabahan,MRH
+Kalimantan Selatan,Kabupaten Tapin,Rantau,RTA
+Kalimantan Selatan,Kabupaten Hulu Sungai Selatan,Kandangan,KGN
+Kalimantan Selatan,Kabupaten Hulu Sungai Tengah,Barabai,BRB
+Kalimantan Selatan,Kabupaten Hulu Sungai Utara,Amuntai,AMT
+Kalimantan Selatan,Kabupaten Tabalong,Tanjung,TJG
+Kalimantan Selatan,Kabupaten Tanah Bumbu,Batulicin,BLN
+Kalimantan Selatan,Kabupaten Balangan,Paringin,PRN
+Kalimantan Selatan,Kota Banjarmasin,Banjarmasin,BJM
+Kalimantan Selatan,Kota Banjarbaru,Banjarbaru,BJB
+Kalimantan Timur,Kabupaten Paser,Tanah Grogot,TGT
+Kalimantan Timur,Kabupaten Kutai Kertanegara,Tenggarong,TRG
+Kalimantan Timur,Kabupaten Berau,Tanjung Redeb,TNR
+Kalimantan Timur,Kabupaten Bulungan,Tanjung Selor,TJS
+Kalimantan Timur,Kabupaten Nunukan,Nunukan,NNK
+Kalimantan Timur,Kabupaten Malinau,Malinau,MLN
+Kalimantan Timur,Kabupaten Kutai Barat,Sendawar,SDW
+Kalimantan Timur,Kabupaten Kutai Timur,Sanggatta,SGT
+Kalimantan Timur,Kabupaten Penajam Paser Utara,Penajam,PNJ
+Kalimantan Timur,Kabupaten Tana Tidung,Tideng Pale,TDP
+Kalimantan Timur,Kota Balikpapan,Balikpapan,BPP
+Kalimantan Timur,Kota Samarinda,Samarinda,SMR
+Kalimantan Timur,Kota Tarakan,Tarakan,TAR
+Kalimantan Timur,Kota Bontang,Bontang,BON
+Sulawesi Utara,Kabupaten Bolaang Mongondow,Lolak,LLK
+Sulawesi Utara,Kabupaten Minahasa,Tondano,TNN
+Sulawesi Utara,Kabupaten Kepulauan Sangihe,Tahuna,THN
+Sulawesi Utara,Kabupaten Kepulauan Talaud,Melongguane,MGN
+Sulawesi Utara,Kabupaten Minahasa Selatan,Amurang,AMR
+Sulawesi Utara,Kabupaten Minahasa Utara,Air Madidi,ARM
+Sulawesi Utara,Kabupaten Minahasa Tenggara,Ratahan,RTN
+Sulawesi Utara,Kabupaten Bolaang Mongondow Utara,Boroko,BRK
+Sulawesi Utara,Kabupaten Kepulauan Siau Tagulandang Biaro,Ondong Siau,ODS
+Sulawesi Utara,Kabupaten Bolaang Mongondow Timur,Tutuyan,TTY
+Sulawesi Utara,Kabupaten Bolaang Mongondow Selatan,Bolaang Uki,BLU
+Sulawesi Utara,Kota Manado,Manado,MND
+Sulawesi Utara,Kota Bitung,Bitung,BIT
+Sulawesi Utara,Kota Tomohon,Tomohon,TMH
+Sulawesi Utara,Kota Kotamobagu,Kotamobagu,KTG
+Sulawesi Tengah,Kabupaten Banggai,Luwuk,LWK
+Sulawesi Tengah,Kabupaten Poso,Poso,PSO
+Sulawesi Tengah,Kabupaten Donggala,Donggala,DGL
+Sulawesi Tengah,Kabupaten Toli Toli,Toli Toli,TLI
+Sulawesi Tengah,Kabupaten Buol,Buol,BUL
+Sulawesi Tengah,Kabupaten Morowali,Bungku,BGK
+Sulawesi Tengah,Kabupaten Banggai Kepulauan,Salakan,SKN
+Sulawesi Tengah,Kabupaten Parigi Moutong,Parigi,PRG
+Sulawesi Tengah,Kabupaten Tojo Una Una,Ampana,APN
+Sulawesi Tengah,Kabupaten Sigi,Sigi Biromaru,SGB
+Sulawesi Tengah,Kota Palu,Palu,PAL
+Sulawesi Selatan,Kabupaten Kepulauan Selayar,Benteng,BEN
+Sulawesi Selatan,Kabupaten Bulukumba,Bulukumba,BLK
+Sulawesi Selatan,Kabupaten Bantaeng,Bantaeng,BAN
+Sulawesi Selatan,Kabupaten Jeneponto,Jeneponto,JNP
+Sulawesi Selatan,Kabupaten Takalar,Takalar,TKA
+Sulawesi Selatan,Kabupaten Gowa,Sungguminasa,SGM
+Sulawesi Selatan,Kabupaten Sinjai,Sinjai,SNJ
+Sulawesi Selatan,Kabupaten Bone,Watampone,WTP
+Sulawesi Selatan,Kabupaten Maros,Maros,MRS
+Sulawesi Selatan,Kabupaten Pangkajene Kepulauan,Pangkajene,PKJ
+Sulawesi Selatan,Kabupaten Barru,Barru,BAR
+Sulawesi Selatan,Kabupaten Soppeng,Watan Soppeng,WNS
+Sulawesi Selatan,Kabupaten Wajo,Sengkang,SKG
+Sulawesi Selatan,Kabupaten Sidenreng Rappang,Sidenreng,SDR
+Sulawesi Selatan,Kabupaten Pinrang,Pinrang,PIN
+Sulawesi Selatan,Kabupaten Enrekang,Enrekang,ENR
+Sulawesi Selatan,Kabupaten Luwu,Palopo,PLP
+Sulawesi Selatan,Kabupaten Tana Toraja,Makale,MAK
+Sulawesi Selatan,Kabupaten Luwu Utara,Masamba,MSB
+Sulawesi Selatan,Kabupaten Luwu Timur,Malili,MLL
+Sulawesi Selatan,Kabupaten Toraja Utara,Rantepao,RTP
+Sulawesi Selatan,Kota Makassar,Makassar,MKS
+Sulawesi Selatan,Kota Pare Pare,Pare Pare,PRE
+Sulawesi Selatan,Kota Palopo,Palopo,PLP
+Sulawesi Tenggara,Kabupaten Kolaka,Kolaka,KKA
+Sulawesi Tenggara,Kabupaten Konawe,Unaaha,UNH
+Sulawesi Tenggara,Kabupaten Muna,Raha,RAH
+Sulawesi Tenggara,Kabupaten Buton,Pasar Wajo,PSW
+Sulawesi Tenggara,Kabupaten Konawe Selatan,Andoolo,ADL
+Sulawesi Tenggara,Kabupaten Bombana,Rumbia,RMB
+Sulawesi Tenggara,Kabupaten Wakatobi,Wangi Wangi,WGW
+Sulawesi Tenggara,Kabupaten Kolaka Utara,Lasusua,LSS
+Sulawesi Tenggara,Kabupaten Konawe Utara,Wanggudu,WGD
+Sulawesi Tenggara,Kabupaten Buton Utara,Buranga,BNG
+Sulawesi Tenggara,Kota Kendari,Kendari,KDI
+Sulawesi Tenggara,Kota Bau Bau,Bau-Bau,BAU
+Gorontalo,Kabupaten Gorontalo,Gorontalo,GTO
+Gorontalo,Kabupaten Boalemo,Tilamuta,TMT
+Gorontalo,Kabupaten Bone Bolango,Suwawa,SWW
+Gorontalo,Kabupaten Pahuwato,Marisa,MAR
+Gorontalo,Kabupaten Gorontalo Utara,Kwandang,KWD
+Gorontalo,Kota Gorontalo,Gorontalo,GTO
+Sulawesi Barat,Kabupaten Mamuju Utara,Pasangkayu,PKY
+Sulawesi Barat,Kabupaten Mamuju,Mamuju,MAM
+Sulawesi Barat,Kabupaten Mamasa,Mamasa,MMS
+Sulawesi Barat,Kabupaten Polewali Mandar,Polewali,PLW
+Sulawesi Barat,Kabupaten Majene,Majene,MJN
+Maluku,Kabupaten Maluku Tengah,Masohi,MSH
+Maluku,Kabupaten Maluku Tenggara,Tual,TUL
+Maluku,Kabupaten Maluku Tenggara Barat,Saumlaki,SML
+Maluku,Kabupaten Buru,Namlea,NLA
+Maluku,Kabupaten Seram Bagian Timur,Dataran Hunimoa,DTH
+Maluku,Kabupaten Seram Bagian Barat,Dataran Hunipopu,DRH
+Maluku,Kabupaten Kepulauan Aru,Dobo,DOB
+Maluku,Kabupaten Maluku Barat Daya,Tiakur,TKR
+Maluku,Kabupaten Buru Selatan,Namrole,NMR
+Maluku,Kota Ambon,Ambon,AMB
+Maluku,Kota Tual,Tual,TUL
+Maluku Utara,Kabupaten Halmahera Barat,Jailolo,JLL
+Maluku Utara,Kabupaten Halmahera Tengah,Weda,WED
+Maluku Utara,Kabupaten Halmahera Utara,Tobelo,TOB
+Maluku Utara,Kabupaten Halmahera Selatan,Labuha,LBA
+Maluku Utara,Kabupaten Kepulauan Sula,Sanana,SNN
+Maluku Utara,Kabupaten Halmahera Timur,Maba,MAB
+Maluku Utara,Kabupaten Pulau Morotai,Morotai Selatan,MTS
+Maluku Utara,Kota Ternate,Ternate,TTE
+Maluku Utara,Kota Tidore Kepulauan,Tidore,TDR
+Papua,Kabupaten Merauke,Merauke,MRK
+Papua,Kabupaten Jayawijaya,Wamena,WAM
+Papua,Kabupaten Jayapura,Jayapura,JAP
+Papua,Kabupaten Nabire,Nabire,NAB
+Papua,Kabupaten Kepulauan Yapen,Serui,SRU
+Papua,Kabupaten Biak Numfor,Biak,BIK
+Papua,Kabupaten Puncak Jaya,Mulia,MUL
+Papua,Kabupaten Paniai,Enarotali,ERT
+Papua,Kabupaten Mimika,Timika,TIM
+Papua,Kabupaten Sarmi,Sarmi,SMI
+Papua,Kabupaten Keerom,Waris,WRS
+Papua,Kabupaten Pegunungan Bintang,Oksibil,OSB
+Papua,Kabupaten Yahukimo,Sumohai,SMH
+Papua,Kabupaten Tolikara,Karubaga,KBG
+Papua,Kabupaten Waropen,Botawa,BTW
+Papua,Kabupaten Boven Digoel,Tanah Merah,TMR
+Papua,Kabupaten Mappi,Kepi,KEP
+Papua,Kabupaten Asmat,Agats,AGT
+Papua,Kabupaten Supiori,Sorendiweri,SRW
+Papua,Kabupaten Mamberamo Raya,Burmeso,BRM
+Papua,Kabupaten Mamberamo Tengah,Kobakma,KBK
+Papua,Kabupaten Yalimo,Elelim,ELL
+Papua,Kabupaten Lanny Jaya,Tiom,TOM
+Papua,Kabupaten Nduga,Kenyam,KYM
+Papua,Kabupaten Puncak,Ilaga,ILG
+Papua,Kabupaten Dogiyai,Kigamani,KGM
+Papua,Kabupaten Intan Jaya,Sugapa,SGP
+Papua,Kabupaten Deiyai,Tigi,TIG
+Papua,Kota Jayapura,Jayapura,JAP
+Papua Barat,Kabupaten Sorong,Aimas,AMS
+Papua Barat,Kabupaten Manokwari,Manokwari,MNK
+Papua Barat,Kabupaten Fak Fak,Fak Fak,FFK
+Papua Barat,Kabupaten Sorong Selatan,Teminabuan,TMB
+Papua Barat,Kabupaten Raja Ampat,Waisai,WAS
+Papua Barat,Kabupaten Teluk Bintuni,Bintuni,BTI
+Papua Barat,Kabupaten Teluk Wondama,Rasiei,RAS
+Papua Barat,Kabupaten Kaimana,Kaimana,KMN
+Papua Barat,Kabupaten Tambrauw,Fef,FEF
+Papua Barat,Kabupaten Maybrat,Aifat,AFT
+Papua Barat,Kota Sorong,Sorong,SON
+,,,

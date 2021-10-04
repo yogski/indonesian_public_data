@@ -13,6 +13,7 @@ Kumpulan data publik yang diterbitkan instansi pemerintahan Republik Indonesia, 
 | Daftar Penerbit Indonesia, terdaftar di IKAPI | IKAPI   | 1500+ | 31 Agustus 2021     | [ikapi.org](https://www.ikapi.org/language/en/ikapi-member/#)                                                                                                                 | [json](json/indonesia_publishers.json), [csv](csv/indonesia_publishers.csv) |
 | Daftar partner pelatihan Program Kartu Prakerja | Prakerja.go.id   | 183 | 31 Agustus 2021     | [prakerja.go.id](https://www.prakerja.go.id/lembaga-pelatihan)                                                                                                                 | [json](json/prakerja_providers.json), [csv](csv/prakerja_providers.csv) |
 | Daftar perusahaan yang terdaftar di IDX / Bursa Efek | IDX  | 720 | 22 Juni 2021     | [idx.co.id](https://www.idx.co.id/data-pasar/data-saham/daftar-saham/)                                                                                                                 | [json](json/indonesia_public_companies.json), [csv](csv/indonesia_public_companies.csv) |
+| Daftar Kode Kota/Kabupaten di Indonesia| BSN  | 482 | 26 Oktober 2010   | [bsn.go.id](https://www.bsn.go.id/main/bsn/detail/9)                                                                                                                 | [json](json/sni_city_codes.json), [csv](csv/sni_city_codes.csv) |
 
 # Kontribusi
 - Anda suka project ini, atau terbantu dengan project ini? Berikan ⭐ untuk repository ini ya 😉
